@@ -1,6 +1,5 @@
 1
 
-apt-get update
 apt-get install autoconf automake libtool shtool libssl-dev pkg-config
 
 2
