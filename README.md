@@ -23,7 +23,6 @@ ls
 4
 
 ./autogen.sh
-autoreconf -i
 ./configure
 make
 make install
